@@ -65,7 +65,7 @@ In Streamlit Dashboard...
 ## Screenshots
 
 ### 📸 App Home Screen
-![App Screenshot](assets/home.png)
+![App Screenshot](images/screenshots/assets/home.png)
 
 
 
