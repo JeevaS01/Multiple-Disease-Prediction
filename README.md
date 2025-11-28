@@ -64,7 +64,9 @@ In Streamlit Dashboard...
 
 ## Screenshots
 
-![images](home.png)
+### 📸 App Home Screen
+![App Screenshot](assets/home.png)
+
 
 
 ## 🛠 Skills
