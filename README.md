@@ -67,7 +67,22 @@ In Streamlit Dashboard...
 ### 📸 App Home Screen
 ![App Screenshot](images/screenshots/assets/home.png)
 
+![App Screenshot](images/screenshots/assets/home2.png)
 
+### 📸 App Parkinson's Disease Prediction Screen
+![App Screenshot](images/screenshots/assets/p1.png)
+
+![App Screenshot](images/screenshots/assets/p2.png)
+
+### 📸 App Kidney Disease Prediction Screen
+![App Screenshot](images/screenshots/assets/k1.png)
+
+![App Screenshot](images/screenshots/assets/k2.png)
+
+### 📸 App Liver Disease Prediction Screen
+![App Screenshot](images/screenshots/assets/L1.png)
+
+![App Screenshot](images/screenshots/assets/L2.png)
 
 ## 🛠 Skills
 Python, MySql, EDA, ML, DL, NLP, Data Vision...
