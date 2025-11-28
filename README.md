@@ -64,7 +64,7 @@ In Streamlit Dashboard...
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/LOQ/Pictures/Screenshots/Screenshot%202025-11-28%20115236.png)
+![images](home.png)
 
 
 ## 🛠 Skills
